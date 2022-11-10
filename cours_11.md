@@ -14,4 +14,6 @@ Nommer deux points à améliorer de votre présentation et expliquer comment vou
 * J'aurais pu faire une meilleur intro et conclusion, qui n'ont pas été très bien travailler.
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+Quelle présentation avez-vous préféré et pourquoi?
+
+* a
