@@ -5,7 +5,7 @@
 Nommer deux points forts de votre présentation.
 
 * Les instructions donner sont précise.
-* La vidéo es courte un peu plus de 5 minutes ce qui est facile a regarder.
+* La vidéo est courte un peu plus de 5 minutes ce qui est facile a regarder.
 
 ### Points à améliorer
 Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations.
@@ -16,4 +16,4 @@ Nommer deux points à améliorer de votre présentation et expliquer comment vou
 ### Présentation préférée
 Quelle présentation avez-vous préféré et pourquoi?
 
-* a
+* J'ai bien aimmer la présentation qui montrait comment monter un stream de façon détailler et le fonctionnement de son organisation de stream ce que je trouvais très interessant, de plus d'avoir une bonne présentation et conclusion.
