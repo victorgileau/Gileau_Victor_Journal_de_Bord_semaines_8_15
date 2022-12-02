@@ -23,4 +23,15 @@ Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moo
 ![moodboard.jpg](Images/moodboard.jpg)
 
 ### Tâches
-Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+Quelles sont les tâches nécessaires à la réalisation de votre projet?
+
+* Programmation
+* Gestion de projet
+* Animation 2D
+* Conception sonore
+* Direction artistique
+* Design de l'interface
+* Graphiste
+* Placer les installations
+* Touver la localisation de l'experience
+* Direction technique
