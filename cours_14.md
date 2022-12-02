@@ -15,7 +15,7 @@ C'est un parcours nommé Planetae Lumina avec des installations multimédia cetr
 ### Schéma du projet ou scénarimage
 Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage.
 
-
+![storyboard-capture.PNG](Images/storyboard-capture.PNG)
 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
